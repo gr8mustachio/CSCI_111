@@ -1,0 +1,11 @@
+Lance
+10
+7
+Longsword
+15
+10
+Sir Arthur
+100
+Liam the Great
+100
+
